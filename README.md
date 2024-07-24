@@ -7,6 +7,7 @@ There are 3 levels of difficulty: easy, medium and hard, which can be chosen at 
 ## 2. REQUIREMENTS
 - C++ compiler
 - SFML library https://www.sfml-dev.org/ in version 2.5 or above
+- CMake and Make
 
 To install SFML library on Ubuntu, run the following commands:
 ```bash
